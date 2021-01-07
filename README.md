@@ -1,4 +1,4 @@
-# classes
+# ca classes
 
 Classes are templates for objects.
 Javascript calls a constructor method when we create a new instance of a class.
